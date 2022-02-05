@@ -7,7 +7,7 @@ Simple ToDo app for CodePath
 
 Submitted by: **Varun Yadav**
 
-Time spent: **2.5** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## User Stories
 
@@ -29,13 +29,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Overall, it went smoothly. There were some differences since I am using a Windows and a different version of Android Studio, but I was able to figure it out. I also needed to generate a token with Github to upload the project instead of just logging in. I also saw the note to add the gitignore file, but noticed that it is already in the project. 
 
 ## License
 
